@@ -13,3 +13,13 @@ Read more about code owners at [About code owners](https://docs.github.com/en/re
 To set up merging, Goto **_Settings_** -> **_Options_** -> **_Merge button_**.
 
 Don't forget to check the box for **_Automatically delete head branches_** if you wish to have head branches deleted automatically after merging the pull requests.
+
+## Add branch protection rule
+
+To add a brach protection rule, Goto **_Settings_** -> **_Branches_** -> **_Add rule_**.
+
+1. Add a pattern of the branches to which the rule should apply.
+
+2. Check the required rules
+
+3. Click **_Create_**
