@@ -1,4 +1,4 @@
-# GitHub repository set up check list
+# GitHub repository set-up checklist
 
 ## Add a CODEOWNERS file to the repository
 
