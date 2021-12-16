@@ -23,3 +23,7 @@ To add a brach protection rule, Goto **_Settings_** -> **_Branches_** -> **_Add 
 2. Check the required rules
 
 3. Click **_Create_**
+
+## Add code analysis
+
+To set up code analysis, Goto **_Settings_** -> **_Security & analysis_** -> **_Code scanning_**. Then you can either select [CodeQL](https://codeql.github.com/) Analysis by GitHub or another security analysis from the GitHub Marketplace.
