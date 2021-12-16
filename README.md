@@ -1,4 +1,4 @@
-# GitHub branch protection rule demo
+# GitHub repository set-up checklist
 
 ## Add a CODEOWNERS file to the repository
 
@@ -27,3 +27,13 @@ To add a brach protection rule, Goto **_Settings_** -> **_Branches_** -> **_Add 
 ## Add code analysis
 
 To set up code analysis, Goto **_Settings_** -> **_Security & analysis_** -> **_Code scanning_**. Then you can either select [CodeQL](https://codeql.github.com/) Analysis by GitHub or another security analysis from the GitHub Marketplace.
+
+## Resources
+
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions)
+- [GitHub Actions - setup dotnet](https://github.com/actions/setup-dotnet)
+- [dotnet restore](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-restore)
+- [dotnet build](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
+- [dotnet test](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test)
+- [CodeQL Docs](https://codeql.github.com/docs/codeql-overview/)
